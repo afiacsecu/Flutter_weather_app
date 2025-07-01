@@ -5,8 +5,6 @@ Welcome to the **Weather App**! This application provides real-time weather upda
 
 ⚠️Please wait for gif to be loaded!
 
-![Weather app 1](https://github.com/siddhu1919/Flutter-Weather-App-For-Beginners/assets/85176765/b8c470af-df40-4abb-9d12-f67c3616431f)
-
 
 ## 🚀 Features
 
@@ -83,8 +81,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 
 
-## 🤝 Contributing
-Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/your-username/weather-app/issues).
 
 ##🤝 Things You can Contribute:
 
@@ -117,13 +113,4 @@ Contributions, issues, and feature requests are welcome! Feel free to check the 
     <string>We need your location to provide weather updates for your area.</string>
     ```
 
-#
-
-## 🌐 Links
-
-- **Project Repository:** [GitHub](https://github.com/siddhu1919/Flutter-Weather-App-For-Beginners)
-- **OpenWeatherMap:** [API Documentation](https://openweathermap.org/api)
-- **Linkedin:** [Siddharth G Singh](https://www.linkedin.com/in/siddharth-g-singh-46b610201/)
-
----
 
